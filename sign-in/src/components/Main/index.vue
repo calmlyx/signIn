@@ -46,7 +46,7 @@
     import Home from '../Home'
     import Me from '../Me'
     import Knowledge from '../Knowledge'
-    import Aboutus from '../Aboutus'
+    import Aboutus from '../Aboutus'   
 
     export default {
         name: "Main",
